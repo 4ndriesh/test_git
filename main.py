@@ -1,2 +1,3 @@
-print ('asd')
+# print ('asd')
+print ('1')
 print ('2')
